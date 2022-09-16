@@ -1,13 +1,12 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include <stdio.h>
-
 /**
 *main - header files for prototypes 
 *void protoypes (void)
 *int protoypes (int)
 */
+
 void print_numbers(void);
 void print_most_numbers(void);
 void more_numbers(void);
